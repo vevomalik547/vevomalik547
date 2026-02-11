@@ -89,8 +89,13 @@ Open_to: Collaborations, Freelance work, and Interesting Product Ideas
       <sub>Sri Lanka · Hybrid</sub><br/><br/>
       <img src="https://img.shields.io/badge/Team_Lead-15%2B_Engineers-58a6ff?style=flat-square&labelColor=161b22" alt="Team Lead" /><br/>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/React_Js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br/>
       <sub>Built responsive mobile apps for Android/iOS · Optimized application quality & accessibility · Troubleshooting & performance tuning</sub>
     </td>
   </tr>
@@ -104,8 +109,15 @@ Open_to: Collaborations, Freelance work, and Interesting Product Ideas
       <strong>Associate Software Engineer / DevOps Engineer</strong> &nbsp;·&nbsp; <code>Aahaas / Apple Holidays</code><br/>
       <sub>Colombo, Sri Lanka</sub><br/><br/>
       <img src="https://img.shields.io/badge/Team_Lead-12_Members-58a6ff?style=flat-square&labelColor=161b22" alt="Team Lead" /><br/>
+       <img src="https://img.shields.io/badge/Team_Lead-15%2B_Engineers-58a6ff?style=flat-square&labelColor=161b22" alt="Team Lead" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/React_Js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/Zabbix-D00000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" /><br/>
       <sub>Built web & mobile apps from scratch · Docker containerization · Server monitoring with Zabbix & CloudWatch · Led & trained team</sub>
     </td>
