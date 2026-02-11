@@ -89,6 +89,7 @@ Open_to: Collaborations, Freelance work, and Interesting Product Ideas
       <sub>Sri Lanka · Hybrid</sub><br/><br/>
       <img src="https://img.shields.io/badge/Team_Lead-15%2B_Engineers-58a6ff?style=flat-square&labelColor=161b22" alt="Team Lead" /><br/>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
       <img src="https://img.shields.io/badge/React_Js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React JS" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
